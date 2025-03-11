@@ -20,7 +20,7 @@ npm install
 ## Ejecutar la aplicación
 
 ```bash
-npm npm run dev
+npm run dev
 ```
 
 ## Tecnologías utilizadas
