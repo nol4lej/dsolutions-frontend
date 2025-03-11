@@ -7,7 +7,7 @@ Sigue estas instrucciones para clonar y ejecutar la aplicación localmente.
 ## Clonar el repositorio
 
 ```bash
-git clone [<URL_DEL_REPOSITORIO>](https://github.com/nol4lej/dsolutions-frontend)
+git clone https://github.com/nol4lej/dsolutions-frontend
 cd dsolutions-frontend
 ```
 
